@@ -9,7 +9,7 @@
     }
   ],
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/ryanlin/palletizer-102",
   "description": "Modular generic service: palletizer. Fully autonomous pallet robotic process.",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
